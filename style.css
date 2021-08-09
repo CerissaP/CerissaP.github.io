@@ -1,6 +1,7 @@
 body 
 {
  /* Change the font for the entire page */
+ font-family:Helvetica, Arial, "sans-serif";
   /* Set the background color to light purple */
  background-color:E8D6ED;
    /* Add some space to the left side */
