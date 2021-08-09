@@ -1,7 +1,8 @@
 body 
 {
  /* Change the font for the entire page */
-  /* Set the background color to light pink */
+  /* Set the background color to light purple */
+ background-color:E8D6ED;
    /* Add some space to the left side */
   margin-left: 20px;
 }
