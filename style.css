@@ -2,8 +2,8 @@ body
 {
  /* Change the font for the entire page */
  font-family:Helvetica, Arial, "sans-serif";
-  /* Set the background color to light pink */
- background-color:light pink;
+  /* Set the background color to pink */
+ background-color:pink;
    /* Add some space to the left side */
   margin-left: 20px;
 }
